@@ -1,4 +1,4 @@
-var countDownDate = new Date("Aug 25, 2018 12:37:25").getTime();
+var countDownDate = new Date("Aug 9, 2018 12:37:25").getTime();
 
 var x = setInterval(function() {
 
@@ -16,6 +16,6 @@ var x = setInterval(function() {
 
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("demo").innerHTML = "EXPIRED";
+        document.getElementById("demo").innerHTML = "Enter";
     }
 }, 1000);
