@@ -16,6 +16,6 @@ var x = setInterval(function() {
 
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("demo").innerHTML = "Enter";
+        document.getElementById("demo").innerHTML = "EXPIRED";
     }
 }, 1000);
