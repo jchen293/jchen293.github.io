@@ -89,6 +89,20 @@ transition: .5s;
 	border-radius: 50%;
 }
 
+@media screen and (max-width: 600px){
+  .fa {
+    padding: 20px;
+    font-size: 12px;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  	border-radius: 50%;
+  }
+
+
+}
+
 .fa:hover {
     opacity: 0.7;
 }
