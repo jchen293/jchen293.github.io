@@ -211,7 +211,7 @@ section.about-us p.abt {
 
 section.our-services {
 	padding:100px 0;
-	background:url("images/service.jpg") no-repeat;
+	background:url("../images/service.jpg") no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size:cover;
@@ -254,7 +254,7 @@ section.our-services img.img-responsive {
 
 section.our-events {
 	padding:100px 0;
-	background:url(images/backgroundNYC.jpg) no-repeat;
+	background:url(../images/backgroundNYC.jpg) no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size:100% 100%;
@@ -381,7 +381,7 @@ section.our-gallery img.img-responsive {
 #darkbox sub{font-size:10px;}
 section.our-testimonials {
 	padding:100px 0;
-	background:url(images/wilson.jpg) no-repeat;
+	background:url(../images/wilson.jpg) no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size:100% 100%;
@@ -433,7 +433,7 @@ section.map iframe.googlemaps {
 
 section.our-contacts {
 	padding:100px 0;
-	background:url(images/contact.jpg) no-repeat;
+	background:url(../images/contact.jpg) no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size:100% 100%;
@@ -772,7 +772,7 @@ section.footer .footer-right ul.social-icons2 li a i.fa.fa-google-plus:hover {
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: rgba(0, 0, 0, 0.5) url(images/cd-top-arrow.svg) no-repeat center 50%;
+  background: rgba(0, 0, 0, 0.5) url(../images/cd-top-arrow.svg) no-repeat center 50%;
   visibility: hidden;
     background-size: 40px;
   opacity: 0;
