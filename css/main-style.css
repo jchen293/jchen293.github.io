@@ -1253,3 +1253,15 @@ footer .credits a {
     height: auto;
   }
 }
+
+@media (max-width: 990px) {
+  .service-box {
+    height: auto;
+  }
+}
+
+@media (max-width: 1200px) {
+  .card-blog {
+    height: 500px;
+  }
+}
